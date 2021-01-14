@@ -62,4 +62,4 @@ For example, you can analyze sentiments in a video file and save the output to a
 ```
 python example.py 'path/to/video.mp4' --save
 ```
-[example.py](.example.py) demonstrates an example use case of the code. See the code to learn more.
+[example.py](./example.py) demonstrates an example use case of the code. See the code to learn more.
