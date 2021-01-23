@@ -5,4 +5,12 @@
 tmp/
 venv/
 
+# Project files
+data/
+models/
+
+# Local files
 .DS_STORE
+Icon?
+._*
+Desktop.ini
